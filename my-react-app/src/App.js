@@ -11,6 +11,7 @@ const App = () => {
   return (
     <div>
     <h1>Hello There</h1>
+    <h2>Chnages accepted</h2>
       <Header />
       <LandingPage />
       <Footer />

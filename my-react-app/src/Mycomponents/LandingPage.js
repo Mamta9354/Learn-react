@@ -10,7 +10,7 @@ const LandingPage = () => {
         <link to="/login">
         <button style={buttonStyle}>User Login</button>
         </link>
-        <link to="/Login">
+        <link to="./Mycomponened/refn">
         <button style={buttonStyle}>New User Register</button>
         
       </div>
